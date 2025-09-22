@@ -1,8 +1,13 @@
 {
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "terminal.integrated.suggest.enabled": true,
-    "editor.wordWrap": "on",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "terminal.integrated.suggest.enabled": true,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "catppuccin-frappe",
+  "github.copilot.nextEditSuggestions.enabled": true
 }
