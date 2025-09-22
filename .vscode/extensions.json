@@ -1,7 +1,8 @@
 {
-    "recommendations": [
-        "catppuccin.catppuccin-vsc-icons",
-        "esbenp.prettier-vscode",
-        "mhutchie.git-graph"
-    ]
+  "recommendations": [
+    "catppuccin.catppuccin-vsc-icons",
+    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "vitest.explorer"
+  ]
 }
