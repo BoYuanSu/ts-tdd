@@ -1,0 +1,25 @@
+{
+  "name": "ts-tdd",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc --noEmit",
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoYuanSu/ts-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoYuanSu/ts-tdd/issues"
+  },
+  "homepage": "https://github.com/BoYuanSu/ts-tdd#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "terminal.integrated.suggest.enabled": true,
+    "editor.wordWrap": "on",
+}
